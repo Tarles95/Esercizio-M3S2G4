@@ -1,0 +1,22 @@
+INSERT INTO IMPIEGATO (IDImpiego, cognome, nome, codicefiscale, età, Redditomensile, DetrazioneFiscale )
+VALUES
+(1, 'RSSMRI94O05L948N', 'Rossi', 'Mario', 18, 2800, 1),
+(7, 'GRSLNO75T02F567D', 'Grossi', 'Lorenzo', 26, 1700, 0),
+(5, 'BNCPLD82M01H123R', 'Bianchi', 'Paola', 33, 2500, 1),
+(4, 'MRCMRO89R03L789E', 'Marconi', 'Roberta', 42, 2900, 1),
+(6, 'FRRGNN91S04B456F', 'Ferrari', 'Gianna', 20, 2000, 1),
+(2, 'SLVCNO84T05A234L', 'Silvestri', 'Antonio', 30, 2700, 1),
+(3, 'CCNPLD75M06H567R', 'Ciccone', 'Luca', 19, 2200, 1),
+(6, 'GRLMRO93R07L123P', 'Girelli', 'Monica', 27, 2800, 1),
+(2, 'LSKPTN88P08A890C', 'Lisotto', 'Katia', 41, 2500, 1),
+(1, 'NCLNTN87P09Z456Q', 'Nicolini', 'Antonella', 50, 2900, 1),
+(7, 'MRVRSS75S10O123U', 'Marrone', 'Rossella', 29, 1700, 0),
+(5, 'CRNCRO92P11L567I', 'Caruso', 'Nadia', 35, 2600, 1),
+(1, 'FBNMRA80P12B234K', 'Fabbri', 'Marco', 23, 1800, 1),
+(3, 'GRGLCA85S13A890L', 'Gregori', 'Luigi', 28, 2100, 1),
+(4, 'VLLMRA78C14O567M', 'Valli', 'Marta', 46, 2900, 1),
+(6, 'STFNCR89C15L123G', 'Stefani', 'Carlo', 17, 2200, 1),
+(2, 'MRRGNA94R16L789I', 'Morrone', 'Gina', 40, 2800, 1),
+(1, 'GRLSNO88T17F567V', 'Guerini', 'Luisa', 22, 1900, 1),
+(5, 'FRRGNN90S18B456S', 'Ferrara', 'Giovanni', 39, 2500, 1),
+(3, 'SLVCNO86T19A234D', 'Salvatore', 'Anna', 45, 2900, 1)
